@@ -1,0 +1,23 @@
+name: JinYx
+author: JinYx
+url: https://jin-yx.github.io/
+baseurl: 
+resume_site: https://jin-yx.github.io/
+description:
+github_username: Jin-Yx
+github: https://github.com/Jin-Yx
+plugins_dir: [jekyll-paginate]
+permalink: /:categories/:title
+plugins: [jekyll-paginate]
+paginate: 20
+paginate_path: "/page/:num/"
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+highlighter: rouge
+markdown: kramdown
+comments:
+  gitalk: # https://github.com/gitalk/gitalk
+    clientID: Ov23liuXvzjAfqbXCxqF
+    clientSecret: 69ebf45f4abbf69db3bcf47ad6636ef31263487b
+    repo: jin-yx.github.io
+    owner: Jin-Yx
+    admin: Jin-Yx
