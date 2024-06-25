@@ -4,7 +4,7 @@ title: Typora 使用 picGo-Core 上传图片到 gitee
 date: 2024-06-24 15:37:00 +0800
 category: 工具
 thumbnail: /assets/images/20220823233310.png
-icon: code
+icon: note
 ---
 
 * content

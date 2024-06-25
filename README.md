@@ -83,3 +83,4 @@ gem uninstall [gemname] --version [version]
   Server running... press ctrl-c to stop.
 ~~~
 
+![](assets/images/2024-06-25-09-41-47.png)
