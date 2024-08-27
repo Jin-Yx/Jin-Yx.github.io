@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unity 生成 apk 和导出为 Android 项目
+title: Android 与 Unity 之间通信
 date: 2024-08-27 14:09:00 +0800
 category: Unity
 thumbnail: ../../assets/images/Android-Unity.png
