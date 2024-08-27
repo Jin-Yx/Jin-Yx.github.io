@@ -10,7 +10,7 @@ icon: code
 * content
 {:toc}
 
-&emsp;&emsp;上一篇介绍了 [Unity 打包 apk 和导出为 Android 项目](./2024-08-26-Unity-Android.md)，这篇实现 Android 与 Unity 之间的交互。
+&emsp;&emsp;上一篇介绍了 [Unity 打包 apk 和导出为 Android 项目](./Unity-Android)，这篇实现 Android 与 Unity 之间的交互。
 
 &emsp;&emsp;还是以上篇文章的 Unity 项目为例，去除其控制按钮，交由 Android 端进行控制实现
 
