@@ -48,10 +48,10 @@ bundle config mirror.https://rubygems.org https://gems.ruby-china.com/
 ### 四、启动服务
 
 ~~~shell
-# 任选一个启动即可
+# 启动服务后仅当前设备能访问
 bundle exec jekyll server
-jekyll server
-jekyll server -w --host 0.0.0.0
+# 启动后允许局域网内其他设备访问
+bundle exec jekyll server -w --host 0.0.0.0
 ~~~
 
 &emsp;&emsp;一般来说第一次无法正常启动，需要安装依赖
